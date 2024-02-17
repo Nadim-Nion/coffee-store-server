@@ -1,7 +1,7 @@
 ---
 
 # Fullstack Coffee Collection Manager
-## Client Side 
+## Server Side 
 
 This Fullstack project combines the power of React in the frontend, Express.js with Node.js in the backend, and MongoDB as the database, offering a seamless experience for managing your coffee collection. Leveraging Tailwind CSS with Daisy UI for sleek design, Firebase handles authentication, ensuring secure sign-in and sign-up functionalities. The project is hosted on Firebase, Netlify, and Surge for the client-side, and Vercel for the server-side, ensuring reliable deployment.
 
@@ -31,7 +31,7 @@ Explore the project and elevate your coffee collection management experience tod
 ---
 
 
-## Back-end API: 
+## Back-End API: 
 
 * Vercel: https://coffee-store-server-dun-nine.vercel.app/
 
